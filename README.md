@@ -1,4 +1,4 @@
-# 2 Player Car Game
+# 2 Player Car Game [Live Code Week 1]
  Create with Code: Live - Spring 2021 (Week 1: Player Control)
  
 [Demo at Unity Learn](https://play.unity.com/mg/other/week-1-player-control-1)
